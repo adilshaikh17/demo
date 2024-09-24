@@ -1,4 +1,4 @@
 # demo
 My first git repository.
 <br>
-Author - Adil Shaikh
+Author - Adil
