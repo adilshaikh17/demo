@@ -1,2 +1,3 @@
 # demo
-My first git repository
+My first git repository.
+Author - Adil Shaikh
